@@ -13,22 +13,6 @@ Interested in understanding complex systems through data, models, and technology
 
 ---
 
-## 🎲 A random topic I enjoy
-### 🐉 Why *Game of Thrones* is the greatest TV series of all time
-
-*Game of Thrones* is without a doubt the best series ever made.  
-No other show has made me stress, celebrate, get angry, and stay emotionally invested for years the way this one did. The fact that literally *any* character could die at any moment made every episode feel intense and unpredictable.
-
-It’s not just about dragons or crazy battles. It’s about power, betrayal, bad decisions, and how no one is really a hero or a villain all the time. The politics, the dialogue, the characters, the twists — everything felt huge and real.
-
-Yes, the ending was messy, but, it doesn’t erase what came before. The cultural impact, the iconic moments, and the way this show completely took over the world for almost a decade is something no other series has matched.
-
-Their prizes speak for themselves. They have won more than 270 different prizes, including 59 emmys on 161 nominations (most emmys won by a serie in history).
-
-If you say it’s not the greatest, I can respect your mistaken opinion.
-
----
-
 ## 📂 What you'll find on my GitHub
 - Academic projects related to engineering and data science
 - Experiments with ML, and DL models
